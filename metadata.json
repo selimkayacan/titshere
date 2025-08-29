@@ -1,0 +1,5 @@
+{
+  "name": "Snapshot Trial",
+  "description": "An MVP trial application allowing users to share photos, manage a simple profile, and engage in private chats. This is a frontend-only simulation of the proposed application.",
+  "requestFramePermissions": []
+}
